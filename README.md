@@ -14,14 +14,6 @@
 pip install -r requirements.txt
 ```
 
-Пример содержимого `requirements.txt`:
-```
-pymupdf
-pillow
-opencv-python
-numpy
-```
-
 ---
 
 ## 📁 Структура проекта
