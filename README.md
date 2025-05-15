@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ├── input.pdf           # Входной PDF (заменить на свой)
 ├── processed_images/   # Промежуточные изображения после enhance.py
 ├── corrected/           # Итоговые обработанные изображения после rotate.py
-└── README.md           # Это описание
+└── README.md           
 ```
 
 ---
@@ -49,7 +49,7 @@ python rotate.py
 
 ---
 
-## ⚙️ Особенности
+## ⚙️ Описание работы 
 
 ### ✅ enhance.py
 - Конвертирует каждую страницу PDF в изображение с нужным DPI  
